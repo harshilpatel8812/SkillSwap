@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.skillswap.app-mergeDebugResources-48:/values-v21/values-v21.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\kishan patel\\.gradle\\caches\\9.6.0\\transforms\\eebb7731255529ea22366e128da27964\\transformed\\credentials-play-services-auth-1.2.0-rc01\\res\\values-v21\\values-v21.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "543"
+                    }
+                }
+            ]
+        }
+    ]
+}
